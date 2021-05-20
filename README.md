@@ -1,1 +1,2 @@
 # instagram
+For educational purposes.
